@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.heading{
+  font-size: xx-large;
+  margin-bottom: 30px;
+  margin-top: 50px;
+  
+  width: 600px;
+}
+.email{
+  margin-bottom: 80px;
+  background-color: lightpink;
+  height: 100px;
+}
+.password{
+  margin-bottom: 80px;
+  background-color: lightsalmon;
+  height: 100px;
+}
+.errors{
+  color: red;
+}
